@@ -87,7 +87,7 @@
 
 ## 🔐 Authentication
 
-- **Header:** `X-Hermes-Key: HiXqudFNUiUax1ix9VXtf6BZmfS7lpOU`
+- **Header:** `X-Hermes-Key: <YOUR_KEY_HERE>` — set via `HERMES_BRIDGE_KEY` constant or `wp_hermes_bridge_key` option
 - **Scope:** All REST endpoints under `/wp-json/hermes-bridge/v1/`
 - **Capability:** `manage_options` (admin only)
 
